@@ -20,7 +20,7 @@ public class NewTest {
 	  driver.manage().window().maximize();
 	  log.info("Browser maximized");
 	  driver.get("https://www.google.com/");
-	  log.info("After");
+	  log.info("CLosed Google ");
 	  
   }
   @BeforeTest
